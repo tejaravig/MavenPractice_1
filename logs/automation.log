@@ -1,0 +1,17 @@
+2026-04-13 13:38:03 INFO  TC_001_AccountRegestrationTest:16 - ****** Starting TC001_AccountRegestrationTest ******
+2026-04-13 13:38:04 INFO  TC_001_AccountRegestrationTest:29 - *** Providing the customer details ...***
+2026-04-13 13:38:05 INFO  TC_001_AccountRegestrationTest:40 - Validating Expected Message....
+2026-04-13 13:38:06 INFO  TC_001_AccountRegestrationTest:66 - **** Finished TC001_AccountRegestrationTest **
+2026-04-13 13:38:10 INFO  TC_002_LoginTest:18 - *** Staring TC_002_LoginTest.. ****
+2026-04-13 13:38:12 INFO  TC_002_LoginTest:47 - *** Finished TC_002_LoginTest..*** 
+2026-04-13 14:02:21 INFO  TC_001_AccountRegestrationTest:16 - ****** Starting TC001_AccountRegestrationTest ******
+2026-04-13 14:02:22 INFO  TC_001_AccountRegestrationTest:29 - *** Providing the customer details ...***
+2026-04-13 14:02:24 INFO  TC_001_AccountRegestrationTest:40 - Validating Expected Message....
+2026-04-13 14:02:24 INFO  TC_001_AccountRegestrationTest:66 - **** Finished TC001_AccountRegestrationTest **
+2026-04-13 14:02:28 INFO  TC_002_LoginTest:18 - *** Staring TC_002_LoginTest.. ****
+2026-04-13 14:02:30 INFO  TC_002_LoginTest:47 - *** Finished TC_002_LoginTest..*** 
+2026-04-13 14:10:15 INFO  TC_001_AccountRegestrationTest:16 - ****** Starting TC001_AccountRegestrationTest ******
+2026-04-13 14:10:16 INFO  TC_001_AccountRegestrationTest:29 - *** Providing the customer details ...***
+2026-04-13 14:10:18 INFO  TC_001_AccountRegestrationTest:40 - Validating Expected Message....
+2026-04-13 14:10:37 INFO  TC_002_LoginTest:18 - *** Staring TC_002_LoginTest.. ****
+2026-04-13 14:10:40 INFO  TC_002_LoginTest:47 - *** Finished TC_002_LoginTest..*** 
